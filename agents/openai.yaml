@@ -1,0 +1,13 @@
+interface:
+  display_name: Prompt God
+  short_description: 从结果升维、专业钻深、跨域协作与外部验证四维重构 Prompt
+  brand_color: '#4338CA'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
